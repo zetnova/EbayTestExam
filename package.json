@@ -1,0 +1,22 @@
+{
+  "name": "ebaytestexam",
+  "version": "1.0.0",
+  "description": "testExam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zetnova/EbayTestExam.git"
+  },
+  "author": "ZdravkoS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zetnova/EbayTestExam/issues"
+  },
+  "homepage": "https://github.com/zetnova/EbayTestExam#readme",
+  "devDependencies": {
+    "cypress": "^12.14.0"
+  }
+}
